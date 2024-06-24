@@ -3,11 +3,6 @@
 <h3 align="center">MERN Stack E-Commerce Website</h3>
 
 
-## <a name="link">🔗 Links</a>/MERN Stack E-Commerce Website: 
-
-For Frontend:[https://buy-smart-online.netlify.app]
-
-For Admin Panel:[https://buy-smart-online1.netlify.app]
 
 
 
