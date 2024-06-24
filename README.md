@@ -44,3 +44,7 @@ In this project, we built a full-stack e-commerce website using the MERN stack (
 👉 **Timeline**: Chronological display of key milestones and achievements. Ability to add or remove timeline entries through the admin panel. Visual and textual representation of career and project progression.
 
 👉 **Responsive Design**: Ensure that the website is fully responsive, providing an optimal user experience across devices.
+
+
+![image](https://github.com/labheshjoshi/ecommerce/assets/129281226/77e48ecd-94a3-418b-bcf5-1889716e2325)
+
